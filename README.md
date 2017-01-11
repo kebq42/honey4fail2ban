@@ -1,0 +1,1 @@
+# honey4fail2ban
